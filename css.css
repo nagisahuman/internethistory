@@ -1,0 +1,80 @@
+/*fonts
+  text: Josefin sans
+  headings: crimson text
+*/
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text|Josefin+Sans');
+
+body {
+  font-family:"Josefin Sans", sans-serif;
+  color: #0f1316;
+  margin: 0 auto;
+  padding: 20px;
+  font-size: 1.8rem;
+  line-height: 2.5rem;
+}
+
+main {
+	max-width: 65rem;
+	margin: 0 auto;
+}
+
+.background-needed {
+	background-color: rgba(254, 253, 255, 0.82);
+	padding: 10px;
+	border-radius: 10px;
+	margin: 5vh;
+}
+
+header {
+  color: #a9c8c8;
+  text-align: center;
+}
+
+h1, h2, h3 {
+  font-family: "Crimson Text", serif;
+}
+
+h1 {font-size: 98px;}
+h3 {font-size: 45px;}
+
+nav {text-align: center;}
+nav a {color: #d1e4f4;}
+nav ul li {
+  list-style: none;
+  display: inline;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: #a35f23;
+}
+
+a:hover {
+  padding: 2px;
+  border: 2px dashed #3a3a3a;
+}
+
+#firstlist { /*this list is on the homepage ONLY*/
+  list-style-image: url("bullet-1.png");
+}
+
+#about { /*this is on the homepage ONLY. other credits are on footer*/
+  text-align: center;
+  font-size: 18px;
+}
+
+img {
+  display: block;
+  margin: auto;
+  max-width: 50rem;
+}
+
+.vid {
+  text-align: center;
+}
+
+footer h6 {
+  line-height: 1;
+  text-align: center;
+}
