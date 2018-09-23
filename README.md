@@ -2,7 +2,6 @@
 A short project on the history of the internet, among other things.
 
 ## TODO
-- wires (wires.html) 
 - dns and ip (ip.html)
 - data (bits.html)
 - websites (http.html)
@@ -17,3 +16,4 @@ A short project on the history of the internet, among other things.
 - internet history (history.html)
 - viruses (secure.html)
 - images? check
+- wires (wires.html) 
