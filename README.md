@@ -1,7 +1,7 @@
 # internethistory
 A short project on the history of the internet, among other things.
 
-### TODO
+## TODO
 - wires (wires.html) 
 - dns and ip (ip.html)
 - data (bits.html)
@@ -9,9 +9,10 @@ A short project on the history of the internet, among other things.
 - encryption (encrypt.html)
 - change cybersecurity to viruses (all)
 - change 'internet history' to correct title (all)
+- add titles to all links and images
 
 
-### COMPLETE
+## COMPLETE
 - home (index.html)
 - internet history (history.html)
 - viruses (secure.html)
