@@ -5,7 +5,6 @@ A short project on the history of the internet, among other things.
 - dns and ip (ip.html)
 - data (bits.html)
 - websites (http.html)
-- encryption (encrypt.html)
 - change cybersecurity to viruses (all)
 - change 'internet history' to correct title (all)
 - add titles to all links and images
@@ -17,3 +16,4 @@ A short project on the history of the internet, among other things.
 - viruses (secure.html)
 - images? check
 - wires (wires.html) 
+- encryption (encrypt.html)
