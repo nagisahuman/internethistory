@@ -9,6 +9,7 @@ A short project on the history of the internet, among other things.
 - encryption (encrypt.html)
 - change cybersecurity to viruses (all)
 - change 'internet history' to correct title (all)
+- images? check
 
 # COMPLETE
 - home (index.html)
