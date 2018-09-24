@@ -8,6 +8,7 @@ A short project on the history of the internet, among other things.
 - change cybersecurity to viruses (all)
 - change 'internet history' to correct title (all)
 - add titles to all links and images
+- change ⨳ to &smashp;
 
 
 ## COMPLETE
