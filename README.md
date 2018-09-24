@@ -2,7 +2,7 @@
 A short project on the history of the internet, among other things.
 
 ## TODO
-- dns and ip (ip.html)
+- dns and ip (ip.html) (need four more &amp; expansion on each)
 - data (bits.html)
 - websites (http.html)
 - change cybersecurity to viruses (all)
